@@ -39,7 +39,7 @@ greet('Alice'); // Outputs: Hello, Alice!
 Functions can process data input and output a value using the *return* keyword.
 
 **_Example_**: 
-
+```javascript
 const addNums = (numA, numB) => {
   return numA + numB
 }
@@ -47,6 +47,7 @@ const addNums = (numA, numB) => {
 const total = addNums(2, 4);
 
 console.log(total) // Expected value: 6
+```
 ```markdown
 For more information on functions and how they are used in JS, check out the MDN docs.
 ``` 
