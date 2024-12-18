@@ -1,5 +1,5 @@
 
-# h1 Writing a Function in JavaScript
+# Writing a Function in JavaScript
 
 ![Computer with Code](/modular-curriculum-all-courses/intro-to-markdown-lab/exercise/assets/james-harrison-unsplash.jpg)
 
