@@ -1,22 +1,6 @@
-# Hello
-## My 
-### Name 
-#### Is 
-##### Nataliia
-###### h6
-
-
-I'm Ukranian **bold**. Here I'm also Ukranian __bold__.
-
-This text is in *italics*. This text is also in _italics_.
-This text is ***bold and italicized***. This text is also ___bold and italicized___.
-
-
-
-
-EXERCISE
 
 # h1 Writing a Function in JavaScript
+
 ![Computer with Code](/modular-curriculum-all-courses/intro-to-markdown-lab/exercise/assets/james-harrison-unsplash.jpg)
 
  In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
@@ -64,7 +48,8 @@ const total = addNums(2, 4);
 
 console.log(total) // Expected value: 6
 ```markdown
-### For more information on functions and how they are used in JS, check out the MDN docs. 
+For more information on functions and how they are used in JS, check out the MDN docs.
+``` 
 [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-```
+
 
