@@ -27,9 +27,9 @@ const greet = (name) => {
 >Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ). 
 
 ## 2. Calling a function
-```markdown
+
 To execute the function, you *call* or *invoke* it by using its name followed by parentheses.
-```
+
 Example:
 ```javascript
 greet('Alice'); // Outputs: Hello, Alice!
@@ -48,9 +48,9 @@ const total = addNums(2, 4);
 
 console.log(total) // Expected value: 6
 ```
-```markdown
+
 For more information on functions and how they are used in JS, check out the MDN docs.
-``` 
+
 [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 
