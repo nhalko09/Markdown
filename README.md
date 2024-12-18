@@ -18,7 +18,7 @@
 4. **The arrow syntax**: Indicates that this will be a function.
 5. **The body**: The statements that make up the function itself. Surrounded by curly braces.
 
-## Example:
+**_Example_**:
 ```javascript
 const greet = (name) => {
   console.log("Hello, " + name + "!");
@@ -30,7 +30,7 @@ const greet = (name) => {
 
 To execute the function, you *call* or *invoke* it by using its name followed by parentheses.
 
-Example:
+**_Example_**:
 ```javascript
 greet('Alice'); // Outputs: Hello, Alice!
 ```
